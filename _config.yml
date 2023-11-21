@@ -31,7 +31,7 @@ twitter_username: koaestro
 github_username:  koaestro
 
 # Build settings
-remote_theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
